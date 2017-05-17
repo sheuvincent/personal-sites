@@ -544,6 +544,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vikram Tiwari https://vikramtiwari.github.com
 - Vinay Hiremath https://vinayh.com
 - Vinayak Mehta http://vortex-ape.github.io
+- Vincent Sheu http://www.vincentsheu.com
 - Vincent Yang https://vincentyang.me
 - Vipin Sharma  http://vipinsharma.me
 - Vishnu Ks http://vishnuks.com
